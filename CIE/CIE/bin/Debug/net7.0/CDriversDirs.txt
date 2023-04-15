@@ -1,0 +1,1 @@
+[{"Nome":"Zarina Alexia","Cognome":"Milanesio","CittaDiResidenza":"Varese","DataDiNascita":"1995-10-24T00:00:00"},{"Nome":"Diego","Cognome":"Pierobon","CittaDiResidenza":"Varese","DataDiNascita":"1994-03-31T00:00:00"},{"Nome":"Maira","Cognome":"Sudria","CittaDiResidenza":"Cordoba","DataDiNascita":"1997-08-12T00:00:00"}]

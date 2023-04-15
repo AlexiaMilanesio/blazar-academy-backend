@@ -1,0 +1,11 @@
+﻿// Scrivere una soluzione che abbia le seguenti caratteristiche:
+
+// Permetta di gestire note/appunti:
+// - Ciascuna nota/appunto deve avere: titolo, data e ora di creazione, data e ora di modifica, data e ora della scadenza, testo.
+// - La soluzione deve permettere di:
+//  + Inserire una nuova nota/appunto.
+//  + Modificare una nota/appunto già esistente.
+//  + Eliminare una nota/appunto.
+//  + Visualizzare tutte le note/appunti presenti.
+//  + Visualizzare una nota/appunto specifico.
+//  + (Facoltativo) Alla scadenza visualizzare la nota/appunto.

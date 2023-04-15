@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F11F3F05-2CD0-4C08-94B2-3415EF11569A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/alexia/Projects/ConsoleApplication2/ConsoleApplication2/Program.cs" relfile="ConsoleApplication2/Program.cs" line="19" column="1" />
+      <Breakpoint enabled="false" file="/Users/alexia/Projects/ConsoleApplication2/ConsoleApplication2/Program.cs" relfile="ConsoleApplication2/Program.cs" line="19" column="16" />
+      <Breakpoint enabled="false" file="/Users/alexia/Projects/ConsoleApplication2/ConsoleApplication2/ClassCIE.cs" relfile="ConsoleApplication2/ClassCIE.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplication2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplication2/ClassCIE.cs">
+    <Files>
+      <File FileName="ConsoleApplication2/ClassCIE.cs" Line="65" Column="104" />
+      <File FileName="ConsoleApplication2/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApplication2" expanded="True">
+            <Node name="ConsoleApplication2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ClassCIE.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>title</Value>
+          <Value>text</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

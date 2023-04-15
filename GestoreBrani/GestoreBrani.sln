@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestoreBrani", "GestoreBrani\GestoreBrani.csproj", "{1EDB7CD7-18FD-41E0-860F-1D54B782B5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDB7CD7-18FD-41E0-860F-1D54B782B5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDB7CD7-18FD-41E0-860F-1D54B782B5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDB7CD7-18FD-41E0-860F-1D54B782B5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDB7CD7-18FD-41E0-860F-1D54B782B5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804787A8-F0EB-42EF-9114-07A927DB4DA3}
+	EndGlobalSection
+EndGlobal

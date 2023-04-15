@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1EDB7CD7-18FD-41E0-860F-1D54B782B5FB}|https">
+  <MonoDevelop.Ide.ItemProperties.GestoreBrani PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alexia/Projects/GestoreBrani/GestoreBrani/Controllers/SongTableController.cs" relfile="GestoreBrani/Controllers/SongTableController.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestoreBrani" expanded="True">
+            <Node name="GestoreBrani" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

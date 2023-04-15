@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{ADC5F960-4C1D-4899-9B29-6F09951A00DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureFunctionAPI/AzureFunctionAPI.cs">
+    <Files>
+      <File FileName="AzureFunctionAPI/AzureFunctionAPI.cs" Line="25" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureFunctionAPI" expanded="True">
+            <Node name="AzureFunctionAPI" expanded="True">
+              <Node name="AzureFunctionAPI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AzureFunctionAPI FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

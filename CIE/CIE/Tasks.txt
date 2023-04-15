@@ -1,0 +1,9 @@
+﻿Scrivere una soluzione che abbia le seguenti caratteristiche:
+- Permetta di memorizzare le informazioni presenti alla CIE (Carti di Identità Elettronica)
+  + Per il nome, il cognome e città di residenza, verificare che il valore inserito non contenda cifre e/o numeri.
+  + Per la data di nascita, verificare che sia posteriore al 01/01/1900
+  Nel caso le suddette condizioni non siano verificate, la soluzione non deve permettere l'inserimento del valore e deve lanciare una eccezione.
+- Possa gestire una lista di elementi precedenti.
+- Possa salvare/recuperare le informazioni usando la memoria di massa.
+
+Non sono interessato all'interfaccia grafica, ma alla logica del software; per testare l'applicazione potete usare una semplice applicazione console.  

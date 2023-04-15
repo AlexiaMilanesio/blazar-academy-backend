@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E12D6012-7387-406D-AFD3-D993B978308F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SerilogInsights PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alexia/Projects/SerilogInsights/SerilogInsights/Program.cs" relfile="SerilogInsights/Program.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SerilogInsights/Program.cs">
+    <Files>
+      <File FileName="SerilogInsights/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SerilogInsights" expanded="True">
+            <Node name="SerilogInsights" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

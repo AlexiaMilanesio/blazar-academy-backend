@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "FunctionAPI": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7072",
+      "launchBrowser": false
+    }
+  }
+}

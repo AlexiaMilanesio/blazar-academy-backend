@@ -1,0 +1,31 @@
+﻿Progettare e realizzare uno o più servizi web che permetta/no di svolgere:
+
+- Le 4 operazioni matematiche fondamentali (somma, sottrazione, moltiplicazione, divisione);
+
+    per la somma, la sottrazione e la moltiplicazione,
+        il risultato è il singolo numero.
+
+    Per la divisione il risultato deve contenere:   
+        il risultato preciso,
+        la divisione intera e il resto
+        (es: 2/5 =
+                (a) risultato preciso: 2,5
+                (b) risultato intero: 2, resto: 1
+        ).
+
+    I parametri di ingresso sono passati in query string/routing;
+    il risultato nel body come stringa json.
+
+
+- L'elevamento a potenza e la radice (di indice qualunque).
+
+    I parametri di ingresso sono passati nel body della richiesta come stringa json;
+    il risultato nel body come stringa json.
+
+
+- Controllo errori e situazioni anomale, come per esempio:
+    parametri non passati o non validi,
+    operazioni impossibili, ...
+
+Se qualche anomalia è identificata, questa deve essere restituita nel body della
+risposta come stringa json.

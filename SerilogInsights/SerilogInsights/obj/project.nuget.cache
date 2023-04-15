@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VsBJmAdibxRncRQkIQVkf0T/AGE9a/MkesyPWkMSY46jxpk0Vtys4uDa15rE15quqxdaowb9ZNwaF9Lhi5RcDA==",
+  "success": true,
+  "projectFilePath": "/Users/alexia/Projects/SerilogInsights/SerilogInsights/SerilogInsights.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexia/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512",
+    "/Users/alexia/.nuget/packages/serilog.sinks.console/4.1.0/serilog.sinks.console.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

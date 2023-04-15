@@ -1,0 +1,17 @@
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/net7.0/ConsoleApp_Generics
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/net7.0/ConsoleApp_Generics.deps.json
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/net7.0/ConsoleApp_Generics.runtimeconfig.json
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/net7.0/ConsoleApp_Generics.dll
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/net7.0/ConsoleApp_Generics.pdb
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.csproj.AssemblyReference.cache
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.AssemblyInfoInputs.cache
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.AssemblyInfo.cs
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.csproj.CoreCompileInputs.cache
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.dll
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/refint/ConsoleApp_Generics.dll
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.pdb
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.genruntimeconfig.cache
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ref/ConsoleApp_Generics.dll
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/alexia/Projects/ConsoleApplication1/ConsoleApplication1/obj/Debug/net7.0/ConsoleApp_Generics.csproj.CopyComplete

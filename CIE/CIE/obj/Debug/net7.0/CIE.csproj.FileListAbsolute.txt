@@ -1,0 +1,17 @@
+/Users/alexia/Projects/CIE/CIE/bin/Debug/net7.0/CIE
+/Users/alexia/Projects/CIE/CIE/bin/Debug/net7.0/CIE.deps.json
+/Users/alexia/Projects/CIE/CIE/bin/Debug/net7.0/CIE.runtimeconfig.json
+/Users/alexia/Projects/CIE/CIE/bin/Debug/net7.0/CIE.dll
+/Users/alexia/Projects/CIE/CIE/bin/Debug/net7.0/CIE.pdb
+/Users/alexia/Projects/CIE/CIE/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.csproj.AssemblyReference.cache
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.AssemblyInfoInputs.cache
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.AssemblyInfo.cs
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.csproj.CoreCompileInputs.cache
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.csproj.CopyComplete
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.dll
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/refint/CIE.dll
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.pdb
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/CIE.genruntimeconfig.cache
+/Users/alexia/Projects/CIE/CIE/obj/Debug/net7.0/ref/CIE.dll

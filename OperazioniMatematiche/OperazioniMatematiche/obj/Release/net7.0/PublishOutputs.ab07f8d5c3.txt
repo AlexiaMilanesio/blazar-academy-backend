@@ -1,0 +1,13 @@
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/OperazioniMatematiche
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/OperazioniMatematiche.dll
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/OperazioniMatematiche.deps.json
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/OperazioniMatematiche.runtimeconfig.json
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/OperazioniMatematiche.pdb
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.OpenApi.dll
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alexia/Projects/OperazioniMatematiche/OperazioniMatematiche/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll

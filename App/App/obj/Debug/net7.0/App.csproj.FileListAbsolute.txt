@@ -1,0 +1,15 @@
+/Users/alexia/Projects/App/App/bin/Debug/net7.0/App
+/Users/alexia/Projects/App/App/bin/Debug/net7.0/App.deps.json
+/Users/alexia/Projects/App/App/bin/Debug/net7.0/App.runtimeconfig.json
+/Users/alexia/Projects/App/App/bin/Debug/net7.0/App.dll
+/Users/alexia/Projects/App/App/bin/Debug/net7.0/App.pdb
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.csproj.AssemblyReference.cache
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.AssemblyInfoInputs.cache
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.AssemblyInfo.cs
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.csproj.CoreCompileInputs.cache
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.dll
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/refint/App.dll
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.pdb
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/App.genruntimeconfig.cache
+/Users/alexia/Projects/App/App/obj/Debug/net7.0/ref/App.dll

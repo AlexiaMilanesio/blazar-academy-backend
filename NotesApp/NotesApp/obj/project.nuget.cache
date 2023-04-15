@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k90PX/jqjPc9v/xdenlaQ5xPIi7g/if3CiPjOKTxo2auctHx2m3aG0r+YHZKVHRZzUxIkr5rwAvXniM1Y3/91w==",
+  "success": true,
+  "projectFilePath": "/Users/alexia/Projects/NotesApp/NotesApp/NotesApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexia/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
