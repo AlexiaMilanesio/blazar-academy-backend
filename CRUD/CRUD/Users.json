@@ -1,0 +1,49 @@
+﻿[
+  {
+    "Id": "8e4afbf1-a40f-4588-87be-879c5c265400",
+    "FirstName": "Alexía",
+    "LastName": "Milanesio",
+    "Username": "alemilanesio",
+    "Email": "alexiamilanesio9@gmail.com",
+    "deletedUser": "false"
+  },
+  {
+    "Id": "0e325eb3-d45b-4825-a297-240ae5f1464a",
+    "FirstName": "Diego",
+    "LastName": "Pierobon",
+    "Username": "diegopierobon",
+    "Email": "diego.pierobon9@gmail.com"
+  },
+  {
+    "Id": "45491f9b-9a5b-4017-a0ca-b6e297c5b429",
+    "FirstName": "Maira",
+    "LastName": "Milanesio",
+    "Username": "maimilanesio",
+    "Email": "mairuchi_mila12@hotmail.com",
+    "deletedUser": "false"
+  },
+  {
+    "Id": "4010b6bf-5519-4240-9076-eb18a8bd9232",
+    "FirstName": "Candela",
+    "LastName": "Virga",
+    "Username": "candevirga",
+    "Email": "c_virga@hotmail.com",
+    "deletedUser": "false"
+  },
+  {
+    "Id": "ce923ea3-9aec-41ea-ad0c-94bd0470b240",
+    "FirstName": "Zarina",
+    "LastName": "Fabre",
+    "Username": "zarina_fabre",
+    "Email": "zetafabre@hotmail.com",
+    "deletedUser": "false"
+  },
+  {
+    "Id": "012859e4-1111-4b05-aae2-6c6fe7300346",
+    "FirstName": "Rocío",
+    "LastName": "Gotusso",
+    "Username": "rogotusso",
+    "Email": "rogotusso@gmail.com",
+    "deletedUser": "false"
+  }
+]
